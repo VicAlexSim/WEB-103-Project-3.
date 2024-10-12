@@ -1,0 +1,17 @@
+.events h1 {
+    text-align: center;
+}
+
+.events select {
+    margin: auto;
+}
+
+.events .events-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    padding: 30px;
+}
